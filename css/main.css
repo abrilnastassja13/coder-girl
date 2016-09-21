@@ -1,0 +1,46 @@
+.home {
+	background-image: url(../img/home.jpg);
+	height: 600px;
+}
+
+.titulo-home {
+	color: white;
+	padding-top: 15%;
+}
+
+.navbar-default {
+	margin-bottom: 0;
+}
+
+.documental {
+	margin-top: 10%;
+}
+
+.girls {
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+
+.trailer {
+	margin-top: 5%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.hack {
+	background-color: #FFFF00;
+	padding: 4% 0;
+}
+
+input, textarea {
+	width: 80%;
+	margin-bottom: 3%;
+	padding: 1%;
+}
+
+textarea {
+	min-height: 30%;
+	max-height: 80%;
+}
